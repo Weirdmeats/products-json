@@ -1,4 +1,6 @@
- [
+{
+ "products":[
+
   {
     "slug": "fender-stratocaster",
     "categoria": "Guitarras",
@@ -121,3 +123,4 @@
     "precio": 699000
   }
 ]
+}
