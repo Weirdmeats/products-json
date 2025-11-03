@@ -6,7 +6,7 @@
     "categoria": "Guitarras",
     "marca": "Fender",
     "modelo": "Stratocaster",
-    "descripcion": "La mas conocida guitarra electrica en el mercado, marcada por su excelencia sonora y calidad de fabricacion",
+    "descripcion": "La mas conocida guitarra electrica en el mercado, marcada por su excelencia sonora y calidad de fabricación.",
     "imagen": "https://audiomusicacl.vtexassets.com/arquivos/ids/191413/1-guitarra-electrica-fender-american-vintage-ii-1957-stratocaster-2-color-sunburst-1113234.jpg",
     "precio": 1099990
   },
@@ -15,7 +15,7 @@
     "categoria": "Guitarras",
     "marca": "Gibson",
     "modelo": "Les Paul",
-    "descripcion": "Gran guitarra electrica, conocida por su sonido y estabilidad",
+    "descripcion": "Gran guitarra electrica, conocida por su sonido y estabilidad.",
     "imagen": "https://audiomusicacl.vtexassets.com/arquivos/ids/186826/1-guitarra-electrica-gibson-les-paul-custom-ebony-gloss-1109687.jpg?v=638357381113930000",
     "precio": 3290000
   },
@@ -24,7 +24,7 @@
     "categoria": "Guitarras",
     "marca": "Paul",
     "modelo": "RS SE Standard",
-    "descripcion": "Una de las mejores guitarras electricas, posee una gran ganancia sonora",
+    "descripcion": "Una de las mejores guitarras electricas, posee una gran ganancia sonora.",
     "imagen": "https://audiomusicacl.vtexassets.com/arquivos/ids/180304/1110741.jpg?v=638043127608870000",
     "precio": 1819990
   },
@@ -33,7 +33,7 @@
     "categoria": "Guitarras",
     "marca": "Yamaha",
     "modelo": "Pacifica 112v",
-    "descripcion": "De las mejores guitarras electricas de gama media, con gran calidad de resonancia y poder adaptativo para realizar riffs",
+    "descripcion": "De las mejores guitarras electricas de gama media, con gran calidad de resonancia y poder adaptativo para realizar riffs.",
     "imagen": "https://cdnx.jumpseller.com/instruments/image/11150530/thumb/719/719?1648249180",
     "precio": 649000
   },
@@ -42,7 +42,7 @@
     "categoria": "Guitarras",
     "marca": "Fender",
     "modelo": "Stratocaster Player II",
-    "descripcion": "Modelo Stratocaster, la flamante player II, de las mejores en su categoria, especialmente para rock y pop",
+    "descripcion": "Modelo Stratocaster, la flamante player II, de las mejores en su categoria, especialmente para rock y pop.",
     "imagen": "https://audiomusicacl.vtexassets.com/arquivos/ids/194227-800-800?v=638614862547900000&width=800&height=800&aspect=true",
     "precio": 1099990
   },
@@ -51,7 +51,7 @@
     "categoria": "Guitarras",
     "marca": "Gibson",
     "modelo": "Les Paul Standard 50s",
-    "descripcion": "Guitarra Gibson Les Paul, en su version estandar, posee un estilo enfocado en los cincuentas (50's)",
+    "descripcion": "Guitarra Gibson Les Paul, en su version estandar, posee un estilo enfocado en los cincuentas (50's).",
     "imagen": "https://audiomusicacl.vtexassets.com/arquivos/ids/188762/1-guitarra-electrica-gibson-les-paul-standard-50s-figured-top-60s-cherry-1112551.jpg?v=638440391249730000",
     "precio": 3141000
   }
@@ -80,7 +80,7 @@
     "categoria": "Bajos",
     "marca": "Fender",
     "modelo": "Mustang Bass",
-    "descripcion": "",
+    "descripcion": "De la marca Fender, uno de sus mejores bajos, gran sonoridad y calidad.",
     "imagen": "https://www.todobajos.com/19454-superlarge_default/fender-limited-edition-mustang-bass-shm.jpg",
     "precio": 1999990
   },
@@ -89,7 +89,7 @@
     "categoria": "Bajos",
     "marca": "Cort",
     "modelo": "A5p",
-    "descripcion": "",
+    "descripcion": "De la marca Cort, con su modelo A5P, gran calidad y sonido.",
     "imagen": "https://es.euroguitar.com/images/products/cort/a5-plus-scms-optg-artisan-bartolini-pan-med-149062.jpg",
     "precio": 829000
   },
@@ -98,7 +98,7 @@
     "categoria": "Bajos",
     "marca": "Warwick",
     "modelo": "Thumb",
-    "descripcion": "",
+    "descripcion": "Bajo Marca Warwick, modelo thumb, especial para alguien que quiera exigirle mas a su bajo.",
     "imagen": "https://r2.gear4music.com/media/43/439436/600/preview.jpg",
     "precio": 199990
   },
@@ -107,7 +107,7 @@
     "categoria": "Bajos",
     "marca": "Yamaha",
     "modelo": "TRBX 304",
-    "descripcion": "Bajo Yamaha: Es un bajo de gran potencia",
+    "descripcion": "Bajo Yamaha: Es un bajo de gran potencia.",
     "imagen": "https://cialfaro.com/cdn/shop/files/19_DM0020168.jpg?v=1716166735",
     "precio": 649000
   },
@@ -125,8 +125,8 @@
   "categoria": "Bajos",
   "marca": "Ibañez",
   "modelo": "GSR205BF 5 Cuerdas",
-  "descripcion": Gran modelo de bajos maca Ibañez, buena potencia ",
-  "imagen": "https://audiomusicacl.vtexassets.com/arquivos/ids/185988/1-3-bajo-electrico-ibanez-rgb300-black-flat-212863.jpg,
+  "descripcion": "Gran modelo de bajos maca Ibañez, buena potencia.",
+  "imagen": "https://audiomusicacl.vtexassets.com/arquivos/ids/185988/1-3-bajo-electrico-ibanez-rgb300-black-flat-212863.jpg",
   "precio": 349990
   },
 
@@ -145,7 +145,7 @@
     "categoria": "Amplificadores",
     "marca": "Fender",
     "modelo": "Twin Reverb",
-    "descripcion": "Amplificador con mucha potencia y sonido",
+    "descripcion": "Amplificador con mucha potencia y sonido.",
     "imagen": "https://thumbs.static-thomann.de/thumb/padthumb600x600/pics/bdb/_32/323667/18902722_800.jpg",
     "precio": 2999900
   },
@@ -163,7 +163,7 @@
     "categoria": "Amplificadores",
     "marca": "Vox",
     "modelo": "AC30",
-    "descripcion": "Amplificador con mucha potencia y estabilidad",
+    "descripcion": "Amplificador con mucha potencia y estabilidad.",
     "imagen": "https://http2.mlstatic.com/D_NQ_NP_829190-MLU70185876343_062023-O.webp",
     "precio": 1326380
   },
@@ -173,8 +173,26 @@
     "marca": "Yamaha",
     "modelo": "GA15ii",
     "descripcion": "Amplificador con mucha potencia y sonoridad",
-    "imagen": "https://www.musicalesdoris.com/cdn/shop/products/cc360735baaf_1280x.jpg?v=1664062571",
+    "imagen": "https://www.musicalesdoris.com/cdn/shop/products/cc360735baaf_1280x.jpg?v=1664062571.",
     "precio": 69920
+  },
+  {
+  "slug": "laney-lx20r",
+  "categoria": "Amplificadores",
+  "marca": "Laney",
+  "modelo": "LX20R",
+  "descripcion": "Amplificador Laney, gran potencia para su reducida talla, estabilidad sonora.",
+  "imagen": "https://thumbs.static-thomann.de/thumb/padthumb600x600/pics/bdb/_32/323667/18902722_800.jpg",
+  "precio": 145990
+  },
+  {
+    "slug": "marshall-mg15g",
+    "categoria": "Amplificadores",
+    "marca": "Marshall",
+    "modelo": "MG15G",
+    "descripcion": "Amplificador con gran ganancia sonora, tiene diferentes modos y es especial para personas quienes estan comenzando en el ambiente.",
+    "imagen": "https://images.fravega.com/f500/51158197.jpg",
+    "precio": 114990
   }
 ]
 }
